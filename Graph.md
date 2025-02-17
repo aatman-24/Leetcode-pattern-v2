@@ -49,10 +49,11 @@
 | 20_ASSP_Floyd_Warshall_Algorithm |  0  |  [Q]()   |  [S1]()  |  [S2]()   |       -        |
 
 
-### Problems
-
-
-## Leetcode Problems
+## Graph Problems
 | Problem Statement                                   | Tag | Question | Solution | Solution2 | Parent Problem |
 |:----------------------------------------------------|:---:|:--------:|:--------:|:---------:|:--------------:|
-| 1_BFS                                               |  0  |  [Q](-)  |  [S1]()  |  [S2]()   |       -        |
+| 133. Clone Graph                                               |  1  |  [Q](https://leetcode.com/problems/clone-graph/description/)  |  [S1]()  |  [S2]()   |       -        |
+| 200. Number of Islands     |  1  |  [Q](https://leetcode.com/problems/number-of-islands/description/)  |  [S1]()  |  [S2]()   |       -        |
+| 207. Course Schedule     |  1  |  [Q](https://leetcode.com/problems/course-schedule/description/)  |  [S1]()  |  [S2]()   |       -        |
+| 785. Is Graph Bipartite?     |  1  |  [Q](https://leetcode.com/problems/is-graph-bipartite/description/)  |  [S1]()  |  [S2]()   |       -        |
+| 0_Graph_Sheet     |  0  |  [Q](-)  |  [S1]()  |  [S2]()   |       -        |
