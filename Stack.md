@@ -9,7 +9,7 @@
 | 227. Basic Calculator II              |  1  |             [Q](https://leetcode.com/problems/basic-calculator-ii/)              |        [S1](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/227.%20Basic%20Calculator%20II.cpp)         |        [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/227.%20Basic%20Calculator%20II.cpp)         |       -        |
 | 32. Longest Valid Parentheses         |  2  |    [Q](https://leetcode.com/problems/longest-valid-parentheses/description/)     |       [S1](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/32.%20Longest%20Valid%20Parentheses.cpp)       |      [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/32.%20Longest%20Valid%20Parentheses.cpp)      |       -        |
 | 150. Evaluate Reverse Polish Notation |  1  | [Q](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [S1](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/150.%20Evaluate%20Reverse%20Polish%20Notation.cpp) | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/150.%20Evaluate%20Reverse%20Polish%20Notation.cpp) |       -        |
-| 1106. Parsing A Boolean Expression        |  1  | [Q](https://leetcode.com/problems/parsing-a-boolean-expression/) | [S1]() | [S2]() |       -        |
+| 1106. Parsing A Boolean Expression    |  1  |         [Q](https://leetcode.com/problems/parsing-a-boolean-expression/)         |                                                       [S1]()                                                       |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/1106.%20Parsing%20A%20Boolean%20Expression.cpp)   |       -        |
 
 
 
