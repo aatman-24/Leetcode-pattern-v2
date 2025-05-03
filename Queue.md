@@ -2,7 +2,7 @@
 
 | 1. Two Sum        |  0  | [Q]() | [S1]() | [S2]() |       -        |
 
-## Direct Use of Stack
+## Direct Use of Queue
 | Problem Statement                      | Tag |                                     Question                                     |                                                       Solution                                                       |                                                       Solution2                                                        | Parent Problem |
 |:---------------------------------------|:---:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------:|
 | 622. Design Circular Queue             |  1  |      [Q](https://leetcode.com/problems/design-circular-queue/description/)       |        [S1](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/622.%20Design%20Circular%20Queue.cpp)         |        [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/622.%20Design%20Circular%20Queue.cpp)         |       -        |

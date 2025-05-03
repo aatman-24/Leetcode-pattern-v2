@@ -2,7 +2,7 @@
 
 | 1. Two Sum        |  0  | [Q]() | [S1]() | [S2]() |       -        |
 
-## Binary Tree(Search Pattern)
+## Binary Search(Search Pattern)
 | Problem Statement                                 | Tag |                                       Question                                       |                                                          Solution                                                          |                                                               Solution2                                                                | Parent Problem |
 |:--------------------------------------------------|:---:|:------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
 | 704. Binary Search                                |  0  |            [Q](https://leetcode.com/problems/binary-search/description/)             |                                                           [S1]()                                                           |                     [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/704.%20Binary%20Search.cpp)                      |       -        |
@@ -16,7 +16,7 @@
 | 4. Median of Two Sorted Arrays                    |  2  |           [Q](https://leetcode.com/problems/median-of-two-sorted-arrays/)            |        [S1](https://github.com/aatman-24/DSA/blob/main/LeetCode/Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)         |            [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/4.%20Median%20of%20Two%20Sorted%20Arrays.cpp)             |       -        |
 
 
-## Binary Tree(Min-Max Pattern)
+## Binary Search(Min-Max Pattern)
 | Problem Statement                | Tag |                                      Question                                      |                                              Solution                                              |                                                     Solution2                                                     | Parent Problem |
 |:---------------------------------|:---:|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|:--------------:|
 | 367. Valid Perfect Square        |  0  |        [Q](https://leetcode.com/problems/valid-perfect-square/description/)        | [S1](https://github.com/aatman-24/DSA/blob/main/LeetCode/Easy/367.%20Valid%20Perfect%20Square.cpp) |      [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/367.%20Valid%20Perfect%20Square.cpp)       |       -        |

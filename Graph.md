@@ -29,11 +29,11 @@
 
 
 ## MST Algorithms
-| Problem Statement              | Tag | Question | Solution | Solution2 | Parent Problem |
-|:-----0--------------------------|:---:|:--------:|:--------:|:---------:|:--------------:|
-| 12_MST_Prims                   |  0  |  [Q]()   |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Graph/12_MST_Prims.cpp)   |       -        |
-| 13_DisjointSet(Data Structure) |  0  |  [Q]()   |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Graph/13_DisjointSet.cpp)   |       -        |
-| 14_MST_Kruskal                 |  0  |  [Q]()   |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Graph/14_MST_Kruskal.cpp)   |       -        |
+| Problem Statement              | Tag | Question | Solution |                                          Solution2                                          | Parent Problem |
+|:-------------------------------|:---:|:--------:|:--------:|:-------------------------------------------------------------------------------------------:|:--------------:|
+| 12_MST_Prims                   |  0  |  [Q]()   |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Graph/12_MST_Prims.cpp)  |       -        |
+| 13_DisjointSet(Data Structure) |  0  |  [Q]()   |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Graph/13_DisjointSet.cpp) |       -        |
+| 14_MST_Kruskal                 |  0  |  [Q]()   |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Graph/14_MST_Kruskal.cpp) |       -        |
 
 ## SCC Algorithms
 | Problem Statement                  | Tag | Question | Solution |                                                    Solution2                                                    | Parent Problem |
