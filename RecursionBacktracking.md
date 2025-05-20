@@ -2,6 +2,13 @@
 
 | 1. Two Sum        |  1  | [Q]() | [S1]() | [S2]() |       -        |
 
+
+## Backtracking Notes
+| Problem Statement    | Tag | Question | Solution | Solution2 | Parent Problem |
+|:---------------------|:---:|:--------:|:--------:|:---------:|:--------------:|
+| 0_Backtracking_Sheet |  0  |  [Q](-)  |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/Notes/backtracking-notes.md)   |       -        |
+
+
 ## Standard Question of Backtracking
 | Problem Statement             | Tag |                                Question                                 | Solution |                                                Solution2                                                 | Parent Problem |
 |:------------------------------|:---:|:-----------------------------------------------------------------------:|:--------:|:--------------------------------------------------------------------------------------------------------:|:--------------:|
@@ -13,9 +20,13 @@
 | 40. Combination Sum II        |  1  |   [Q](https://leetcode.com/problems/combination-sum-ii/description/)    |  [S1]()  |   [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/40.%20Combination%20Sum%20II.cpp)    |       39       |
 | 216. Combination Sum III      |  1  |   [Q](https://leetcode.com/problems/combination-sum-iii/description/)   |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/216.%20Combination%20Sum%20III.cpp)   |       40       |
 | 131. Palindrome Partitioning* |  1  | [Q](https://leetcode.com/problems/palindrome-partitioning/description/) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/131.%20Palindrome%20Partitioning*.cpp) |       -        |
-
+| 46. Permutations        |  1  | [Q](https://leetcode.com/problems/permutations/description/) | [S1]() | [S2]() |       -        |
 
 ## Other Problems
 | Problem Statement        | Tag |                               Question                               | Solution |                                              Solution2                                              | Parent Problem |
 |:-------------------------|:---:|:--------------------------------------------------------------------:|:--------:|:---------------------------------------------------------------------------------------------------:|:--------------:|
+| 79. Word Search        |  1  |     [Q](https://leetcode.com/problems/word-search/description/)      | [S1]() | [S2]() |       -        |
 | 22. Generate Parentheses |  1  | [Q](https://leetcode.com/problems/generate-parentheses/description/) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/22.%20Generate%20Parentheses.cpp) |       -        |
+| 7. Letter Combinations of a Phone Number |  1  |                                [Q](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                                 |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/22.%20Generate%20Parentheses.cpp) |       -        |
+
+

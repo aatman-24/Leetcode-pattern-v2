@@ -2,10 +2,10 @@
 
 | 1. Two Sum        |  0  | [Q]() | [S1]() | [S2]() |       -        |
 
-## ## DFS + BFS Application
+## Graph Notes
 | Problem Statement | Tag | Question | Solution | Solution2 | Parent Problem |
 |:------------------|:---:|:--------:|:--------:|:---------:|:--------------:|
-| 0_Graph_Sheet     |  0  |  [Q](-)  |  [S1]()  |  [S2]()   |       -        |
+| 0_Graph_Sheet     |  0  |  [Q](-)  |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/Notes/graph_algorithms.md)   |       -        |
 
 ## DFS + BFS Application
 | Problem Statement                                   | Tag | Question | Solution |                                                            Solution2                                                             | Parent Problem |

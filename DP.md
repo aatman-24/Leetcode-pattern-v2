@@ -24,7 +24,7 @@
 | 63. Unique Paths II                 |  1  |            [Q](https://leetcode.com/problems/unique-paths/description/)            |  [S1]()  |           [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/63.%20Unique%20Paths%20II.cpp)           |       62       |
 | 64. Minimum Path Sum                |  1  |          [Q](https://leetcode.com/problems/minimum-path-sum/description/)          |  [S1]()  |          [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/64.%20Minimum%20Path%20Sum.cpp)           |       62       |
 | 120. Triangle                       |  1  |              [Q](https://leetcode.com/problems/triangle/description/)              |  [S1]()  |                [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/120.%20Triangle.cpp)                |       62       |
-| 6_CN_Maximum Path Sum in the matrix |  1  | [Q](https://www.naukri.com/code360/problems/maximum-path-sum-in-the-matrix_797998) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/6_CN_Maximum%20Path%20Sum%20in%20the%20matrix.cpp) |       -        |
+| 494. Target Sum |  1  | [Q](https://leetcode.com/problems/target-sum/description/) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/494.%20Target%20Sum.cpp) |       -        |
 
 
 ## Subset sum Pattern
@@ -34,6 +34,7 @@
 | 8_CN_Partition Equal Subset Sum               |  1  |                             [Q](https://www.naukri.com/code360/problems/partition-equal-subset-sum_892980)                              |  [S1]()  |         [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/8_CN_Partition%20Equal%20Subset%20Sum.cpp)         |       7        |
 | 9_CN_Array partition with minimum difference* |  2  | [Q](https://www.naukri.com/code360/problems/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum_842494) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/9_CN_Array%20partition%20with%20minimum%20difference*.cpp) |       7        |
 | 10_Count Subsets with Sum K                   |  1  |                                 [Q](https://www.naukri.com/code360/problems/number-of-subsets_3952532)                                  |  [S1]()  |          [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/10_Count%20Subsets%20with%20Sum%20K.cpp)          |       7        |
+| 11_CN_Partitions With Given Difference        |  1  |                          [Q](https://www.naukri.com/code360/problems/partitions-with-given-difference_3751628)                          |  [S1]()  |     [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/11_CN_Partitions%20With%20Given%20Difference.cpp)      |       7        |
 | 11_CN_Partitions With Given Difference        |  1  |                          [Q](https://www.naukri.com/code360/problems/partitions-with-given-difference_3751628)                          |  [S1]()  |     [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/11_CN_Partitions%20With%20Given%20Difference.cpp)      |       7        |
 
 
