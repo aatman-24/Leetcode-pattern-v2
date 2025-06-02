@@ -2,7 +2,6 @@
 
 | 1. Two Sum        |  0  | [Q]() | [S1]() | [S2]() |       -        |
 
-
 ## Fib Pattern(1D-DP)
 | Problem Statement                         | Tag |                                                                                                 Question                                                                                                  |                                               Solution                                                |                                                          Solution2                                                          | Parent Problem |
 |:------------------------------------------|:---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:--------------:|
@@ -17,14 +16,14 @@
 
 
 ## 2D-DP Pattern
-| Problem Statement                   | Tag |                                      Question                                      | Solution |                                                        Solution2                                                        | Parent Problem |
-|:------------------------------------|:---:|:----------------------------------------------------------------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------------:|:--------------:|
-| 5_CN_Ninja_Training 2D DP           |  1  |       [Q](https://www.naukri.com/code360/problems/ninja-s-training_3621003)        |  [S1]()  |         [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/5_CN_Ninja_Training%202D%20DP.cpp)         |       -        |
-| 62. Unique Paths                    |  1  |            [Q](https://leetcode.com/problems/unique-paths/description/)            |  [S1]()  |             [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/62.%20Unique%20Paths.cpp)              |       -        |
-| 63. Unique Paths II                 |  1  |            [Q](https://leetcode.com/problems/unique-paths/description/)            |  [S1]()  |           [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/63.%20Unique%20Paths%20II.cpp)           |       62       |
-| 64. Minimum Path Sum                |  1  |          [Q](https://leetcode.com/problems/minimum-path-sum/description/)          |  [S1]()  |          [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/64.%20Minimum%20Path%20Sum.cpp)           |       62       |
-| 120. Triangle                       |  1  |              [Q](https://leetcode.com/problems/triangle/description/)              |  [S1]()  |                [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/120.%20Triangle.cpp)                |       62       |
-| 494. Target Sum |  1  | [Q](https://leetcode.com/problems/target-sum/description/) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/494.%20Target%20Sum.cpp) |       -        |
+| Problem Statement         | Tag |                               Question                                | Solution |                                                Solution2                                                | Parent Problem |
+|:--------------------------|:---:|:---------------------------------------------------------------------:|:--------:|:-------------------------------------------------------------------------------------------------------:|:--------------:|
+| 5_CN_Ninja_Training 2D DP |  1  | [Q](https://www.naukri.com/code360/problems/ninja-s-training_3621003) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/5_CN_Ninja_Training%202D%20DP.cpp) |       -        |
+| 62. Unique Paths          |  1  |     [Q](https://leetcode.com/problems/unique-paths/description/)      |  [S1]()  |     [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/62.%20Unique%20Paths.cpp)      |       -        |
+| 63. Unique Paths II       |  1  |     [Q](https://leetcode.com/problems/unique-paths/description/)      |  [S1]()  |   [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/63.%20Unique%20Paths%20II.cpp)   |       62       |
+| 64. Minimum Path Sum      |  1  |   [Q](https://leetcode.com/problems/minimum-path-sum/description/)    |  [S1]()  |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/64.%20Minimum%20Path%20Sum.cpp)   |       62       |
+| 120. Triangle             |  1  |       [Q](https://leetcode.com/problems/triangle/description/)        |  [S1]()  |        [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/120.%20Triangle.cpp)        |       62       |
+| 494. Target Sum           |  1  |      [Q](https://leetcode.com/problems/target-sum/description/)       |  [S1]()  |      [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/494.%20Target%20Sum.cpp)      |       -        |
 
 
 ## Subset sum Pattern
@@ -38,6 +37,12 @@
 | 11_CN_Partitions With Given Difference        |  1  |                          [Q](https://www.naukri.com/code360/problems/partitions-with-given-difference_3751628)                          |  [S1]()  |     [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/11_CN_Partitions%20With%20Given%20Difference.cpp)      |       7        |
 
 
+## Kadane Pattern
+| Problem Statement                             | Tag |                                                                Question                                                                 | Solution |                                                            Solution2                                                            | Parent Problem |
+|:----------------------------------------------|:---:|:---------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
+| NC_24_Maximum Product Subarray        |  0  | [Q](https://neetcode.io/problems/maximum-product-subarray) | [S1]() | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Neetcode/NC_24_Maximum%20Product%20Subarray.cpp) |       -        |
+
+
 ## 0-1 Knapsack Pattern
 | Problem Statement           | Tag |                               Question                                |                                         Solution                                          |                                               Solution2                                               | Parent Problem |
 |:----------------------------|:---:|:---------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:--------------:|
@@ -46,7 +51,6 @@
 | 322. Coin Change            |  1  |      [Q](https://leetcode.com/problems/coin-change/description/)      | [S1](https://github.com/aatman-24/DSA/blob/main/LeetCode/Medium/322.%20Coin%20Change.cpp) |                                                [S2]()                                                 |       -        |
 | 518. Coin Change II         |  1  |    [Q](https://leetcode.com/problems/coin-change-ii/description/)     |                                          [S1]()                                           |  [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/518.%20Coin%20Change%20II.cpp)  |       -        |
 | 14_GFG_Rod Cutting          |  1  |     [Q](https://www.geeksforgeeks.org/problems/rod-cutting0840/1)     |                                          [S1]()                                           |    [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/14_GFG_Rod%20Cutting.cpp)     |       -        |
-
 
 ## Buy-Sell Stocks Pattern
 | Problem Statement                                         | Tag |                                               Question                                               | Solution |                                                                               Solution2                                                                                | Parent Problem |
@@ -71,6 +75,7 @@
 | 1092. Shortest Common Supersequence                        |  1  |            [Q](https://leetcode.com/problems/shortest-common-supersequence/description/)            |  [S1]()  |                 [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/lcs/1092.%20Shortest%20Common%20Supersequence.cpp)                  |       -        |
 | 72. Edit Distance                                          |  1  |                    [Q](https://leetcode.com/problems/edit-distance/description/)                    |  [S1]()  |                           [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/lcs/72.%20Edit%20Distance.cpp)                            |       -        |
 | 44. Wildcard Matching*                                     |  0  |                  [Q](https://leetcode.com/problems/wildcard-matching/description/)                  |  [S1]()  |                         [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/lcs/44.%20Wildcard%20Matching*.cpp)                         |       -        |
+| NC_26_Interleaving String                                  |  0  |                        [Q](https://neetcode.io/problems/interleaving-string)                        |  [S1]()  |                       [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Neetcode/NC_26_Interleaving%20String.cpp)                        |       -        |
 
 
 ## LIS Pattern
@@ -82,8 +87,7 @@
 | 1048. Longest String Chain                     |  1  |           [Q](https://leetcode.com/problems/longest-string-chain/description/)           |  [S1]()  |            [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/lis/1048.%20Longest%20String%20Chain.cpp)             |       -        |
 | 673. Number of Longest Increasing Subsequence  |  1  | [Q](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/lis/673.%20Number%20of%20Longest%20Increasing%20Subsequence.cpp) |       -        |
 | 2_GFG_Longest_Bitonic_subsequence              |  1  |      [Q](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)       |  [S1]()  |            [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/lis/2_GFG_Longest_Bitonic_subsequence.cpp)            |       -        |
-
-
+| NC_27_Longest Increasing Path in Matrix*       |  0  |           [Q](https://neetcode.io/problems/longest-increasing-path-in-matrix)            |  [S1]()  |   [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Neetcode/NC_27_Longest%20Increasing%20Path%20in%20Matrix*.cpp)    |       -        |
 
 ## MCM Pattern
 | Problem Statement                     | Tag |                                                                             Question                                                                              | Solution |                                                           Solution2                                                           | Parent Problem |
@@ -94,3 +98,13 @@
 | 132. Palindrome Partitioning II       |  1  |                                            [Q](https://leetcode.com/problems/palindrome-partitioning-ii/description/)                                             |  [S1]()  |      [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/mcm/132.%20Palindrome%20Partitioning%20II.cpp)      |       -        |
 | MCM_5_Boolean Evaluation              |  1  | [Q](https://www.naukri.com/code360/problems/boolean-evaluation_1214650?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM) |  [S1]()  |           [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/mcm/MCM_5_Boolean%20Evaluation.cpp)            |       -        |
 | 1043. Partition Array for Maximum Sum |  1  |                                          [Q](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)                                          |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/DP/mcm/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp) |       -        |
+
+
+## Palindromic String Pattern
+| Problem Statement                   | Tag |                            Question                             | Solution |                                                        Solution2                                                        | Parent Problem |
+|:------------------------------------|:---:|:---------------------------------------------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------------:|:--------------:|
+| NC_21_Longest Palindromic Substring |  0  | [Q](https://neetcode.io/problems/longest-palindromic-substring) |  [S1]()  | [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Neetcode/NC_21_Longest%20Palindromic%20Substring.cpp) |       -        |
+| NC_22_Palindromic Substrings        |  0  |       [Q](https://neetcode.io/problems/partition-labels)        |  [S1]()  |     [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Neetcode/NC_22_Palindromic%20Substrings.cpp)      |       -        |
+| NC_22_Decode Ways                   |  0  |          [Q](https://neetcode.io/problems/decode-ways)          |  [S1]()  |           [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Neetcode/NC_22_Decode%20Ways.cpp)           |       -        |
+| NC_25_Word Break                    |  0  |          [Q](https://neetcode.io/problems/word-break)           |  [S1]()  |           [S2](https://github.com/aatman-24/Leetcode-revision/blob/main/src/Neetcode/NC_25_Word%20Break.cpp)            |       -        |
+| 1. Two Sum                          |  0  |                              [Q]()                              |  [S1]()  |                                                         [S2]()                                                          |       -        |
